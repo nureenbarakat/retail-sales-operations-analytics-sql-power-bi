@@ -65,7 +65,6 @@ Most returned products, returns by store, revenue and return rate by store type,
 The full capstone presentation (business problem, SQL data engineering, data modeling, cleaning challenges, dashboard walkthrough, insights, and recommendations) is available in [`presentation/Retail_Analysis_Final_Project.pdf`](presentation/Retail_Analysis_Final_Project.pdf).
 
 **Key findings**
-- Revenue grew 208% year-over-year (1997 to 1998), with the USA as the top country.
 - Return rate stays around 1% of units sold, rising in step with sales.
 - About 33% of customers are inactive, and Canada has the highest inactive rate.
 - Store 13 is the benchmark store, contributing about 9.5% of total revenue.
